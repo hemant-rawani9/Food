@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="176dp"
+    android:background="@color/accent1"
+    android:padding="16dp">
+
+    <com.mikhaellopez.circularimageview.CircularImageView
+        android:id="@+id/ima1"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="8dp"
+        android:src="@drawable/imgf"
+        app:civ_border_color="@color/white"
+        app:civ_border_width="2dp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_header_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_header_subtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="order@foodapp.com"
+            android:textColor="#E0E0E0"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_header_footer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:text="@string/powered_by_hemant"
+            android:textColor="#BDBDBD"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+</RelativeLayout>
