@@ -213,85 +213,91 @@ Screenshots of the following screens:
 * Splash Screen
 
   
-* <img width="250" height="500" alt="splsc" src="https://github.com/user-attachments/assets/9a2f46e6-5343-4a1d-bb21-6d3ce3dee22e" />
+<img width="250" height="500" alt="splsc" src="https://github.com/user-attachments/assets/d6caf48c-95d1-4592-900e-0635e39f90e7" />
+
 
 
 
 * Login
 
 
-<img width="250" height="500" alt="lgn" src="https://github.com/user-attachments/assets/62fb0566-03f7-41d6-babf-1c983d322d01" />
+<img width="250" height="500" alt="lgn" src="https://github.com/user-attachments/assets/f794bfa1-ae71-4ac3-bebf-69a943ab1540" />
+
 
 * Register
 
 
- <img width="250" height="500" alt="reg" src="https://github.com/user-attachments/assets/80b3d810-db7b-4cea-9518-37bca10a1d4d" />
+ <img width="250" height="500" alt="reg" src="https://github.com/user-attachments/assets/18d30754-6c71-44a1-97c0-0d17e086e7c9" />
+
 
 * Dashboard
 
 
-<img width="250" height="500" alt="dashm" src="https://github.com/user-attachments/assets/98f1bce7-cf6d-4e13-a06d-5d2f4ea76d91" />
+<img width="250" height="500" alt="dashm" src="https://github.com/user-attachments/assets/77f00f55-620d-44f7-848a-2c694d0b1a72" />
+
 
 * Food Categories
 * Pizza
-<img width="250" height="500" alt="pizza" src="https://github.com/user-attachments/assets/e12c2bc6-2731-49a7-9abf-3648f832c56c" />
+<img width="250" height="500" alt="pizza" src="https://github.com/user-attachments/assets/092d0c02-e182-4c00-8b5e-b9fba1c6aea3" />
+
 
 
 * Burger
 
 
-<img width="250" height="500" alt="burger" src="https://github.com/user-attachments/assets/376391eb-a9ac-4c9f-8cd7-38fb5de2434a" />
+<img width="250" height="500" alt="burger" src="https://github.com/user-attachments/assets/ea3ed220-3d4f-42a7-8ff8-ea2968eed36d" />
 
 * Chinese
 
 
-<img width="250" height="500" alt="chinesse" src="https://github.com/user-attachments/assets/0a866f4b-4b7a-47ad-8cae-b92bb3418718" />
+<img width="250" height="500" alt="chinesse" src="https://github.com/user-attachments/assets/168e5b39-f0ce-4057-b86d-9825b36ef683" />
 
 * South Indian
 
-<img width="250" height="500" alt="south ind" src="https://github.com/user-attachments/assets/5a9ceaf4-a2fe-4c36-ae83-4522df1a552c" />
+<img width="250" height="500" alt="south ind" src="https://github.com/user-attachments/assets/37f8bab8-ca47-40d2-9cb1-1584853dc918" />
 
 * Desserts
 
-<img width="250" height="500" alt="dessert" src="https://github.com/user-attachments/assets/a8acb23f-f48f-4b87-bdde-c8001c392dee" />
+<img width="250" height="500" alt="dessert" src="https://github.com/user-attachments/assets/62a0765b-7f0f-4791-88cb-b5c4473f7225" />
 
 
 * Beverages
 
-<img width="250" height="500" alt="brev" src="https://github.com/user-attachments/assets/3592ea36-188a-4ff7-8561-fe6cff42cca1" />
+<img width="250" height="500" alt="brev" src="https://github.com/user-attachments/assets/34615bfa-78d5-4b51-8cab-f618b9a37604" />
 
 * Cart
 
-<img width="250" height="500" alt="cart" src="https://github.com/user-attachments/assets/9e179862-54e8-425f-b476-8437544c4dc4" />
+<img width="250" height="500" alt="cart" src="https://github.com/user-attachments/assets/49250d35-3567-4a6b-a551-7f6884828681" />
 
 * Checkout Card
 
-<img width="250" height="500" alt="cc" src="https://github.com/user-attachments/assets/17d2bd52-05c9-4480-b3e1-2d34b264e24d" />
+<img width="250" height="500" alt="cc" src="https://github.com/user-attachments/assets/40ae8e99-ec46-478b-8df3-d42fc46a898e" />
 
 * Checkout UPI
 
-<img width="250" height="500" alt="c u" src="https://github.com/user-attachments/assets/d82a54fa-20bc-4d95-b569-4fb31e838ee1" />
+<img width="250" height="500" alt="c u" src="https://github.com/user-attachments/assets/d56db9ed-a926-4dd8-8931-2c3fbc51f8c9" />
 
 * Checkout COD
 
-<img width="250" height="500" alt="check c" src="https://github.com/user-attachments/assets/5dc3e8f9-fe89-4aef-ac70-1ebc2cd4ebf9" />
+<img width="250" height="500" alt="check c" src="https://github.com/user-attachments/assets/d618344d-6469-4187-a6ed-c56cdb3a97f7" />
 
   
 * Order Success
 
-<img width="250" height="500" alt="ord s" src="https://github.com/user-attachments/assets/91acb096-94c1-41eb-af56-210407d76484" />
+<img width="250" height="500" alt="ord s" src="https://github.com/user-attachments/assets/1f0ffdd6-4381-49c7-8542-e62d3c04cb69" />
 
 * Order History
 
-<img width="250" height="500" alt="od his" src="https://github.com/user-attachments/assets/6bea4e01-2b8d-4218-bd97-8acdb9233683" />
+<img width="250" height="500" alt="od his" src="https://github.com/user-attachments/assets/c33dedba-7c77-4f27-9555-47aadc3c8f96" />
+
 
 * Profile
 
-<img width="250" height="500" alt="upd prf" src="https://github.com/user-attachments/assets/75a86390-28e3-4feb-bffe-435c6fafb772" />
+<img width="250" height="500" alt="upd prf" src="https://github.com/user-attachments/assets/332a4a33-5c9e-4df1-a3c3-8ac515bf5893" />
 
 * Settings
 
-<img width="250" height="500" alt="set" src="https://github.com/user-attachments/assets/13366401-14b0-4008-bde9-a67d71eb917f" />
+<img width="250" height="500" alt="set" src="https://github.com/user-attachments/assets/d8474f4d-16f1-45cf-8f58-f0fca895c7d3" />
 
 
 //-------------ABOUT DEVLOPER------------//
